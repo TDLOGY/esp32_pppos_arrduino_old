@@ -1,5 +1,6 @@
 #include <PPPOS.h>
 #include <PPPOSClient.h>
+#include <PubSubClient.h>
 
 #define GSM_SERIAL          1
 #define GSM_RX              16      // ESP32 TX - SIM RX
